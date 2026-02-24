@@ -26,3 +26,13 @@ Este notebook documenta um projeto de Machine Learning , a análise e predição
 ### 5. Predição de Modelos
 - Demonstração de como carregar os modelos salvos e fazer predições com novos dados.
 
+
+
+# Tecnologias Utilizadas 🔨
+- Pandas
+- numpy
+- matplotlib
+- seaborn
+- scikit-learn
+- Python
+
